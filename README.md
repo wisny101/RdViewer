@@ -37,3 +37,6 @@ WinXp-Win11所有操作系统，互联网和局域网均可部署。
 
 3、软件配置可在管理端界面顶部的设置按钮打开。
 
+![image](https://user-images.githubusercontent.com/69678347/176330704-066dfd0d-379b-4ff3-8fa4-42c238fee69d.png)
+![image](https://user-images.githubusercontent.com/69678347/176330745-28bc5f55-1b69-4e3b-a549-1a551a43be39.png)
+
